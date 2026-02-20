@@ -1,0 +1,9 @@
+{
+  "plugins": {
+    "if-i-were-a-man": {
+      "version": "1.0.0",
+      "description": "Analyze professional communication for gendered patterns. Detects apologies, hedging, minimizers, permission-seeking, and passive voice. Shows confidence score with witty, empowering descriptions.",
+      "path": "."
+    }
+  }
+}

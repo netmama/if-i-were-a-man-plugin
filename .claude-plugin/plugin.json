@@ -1,0 +1,10 @@
+{
+  "name": "if-i-were-a-man",
+  "description": "Analyze professional communication for gendered patterns. Detects apologies, hedging, minimizers, permission-seeking, and passive voice. Shows confidence score with witty, empowering descriptions.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Erin Leibowitz"
+  },
+  "repository": "https://github.com/erinleibowitz/if-i-were-a-man-plugin",
+  "license": "MIT"
+}
