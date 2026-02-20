@@ -41,10 +41,10 @@ Message length: 73 words
 
 ```bash
 # Add the marketplace (one-time)
-/plugin marketplace add erinleibowitz/if-i-were-a-man-plugin
+/plugin marketplace add netmama/if-i-were-a-man-plugin
 
 # Install the plugin
-/plugin install if-i-were-a-man@if-i-were-a-man-plugin
+/plugin install if-i-were-a-man@netmama/if-i-were-a-man-plugin
 ```
 
 ### Manual install
