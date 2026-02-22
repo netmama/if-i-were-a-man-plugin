@@ -8,7 +8,7 @@
       "name": "if-i-were-a-man",
       "version": "1.0.0",
       "description": "Analyze professional communication for gendered patterns.",
-      "source": "https://github.com/netmama/if-i-were-a-man-plugin"
+      "source": "github:netmama/if-i-were-a-man-plugin"
     }
   ]
 }
