@@ -37,16 +37,6 @@ Message length: 73 words
 
 ## Install
 
-### As a Claude Code plugin
-
-```bash
-# Add the marketplace (one-time)
-/plugin marketplace add netmama/if-i-were-a-man-plugin
-
-# Install the plugin
-/plugin install if-i-were-a-man@netmama/if-i-were-a-man-plugin
-```
-
 ### Manual install
 
 Copy `skills/if-i-were-a-man/SKILL.md` into your `~/.claude/skills/if-i-were-a-man/` directory.
